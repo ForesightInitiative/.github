@@ -16,7 +16,7 @@
 The purpose of [ADAM](https://github.com/ForesightAndMetrics/ADAM) is to bring together tools and models that use a variety of data from many sources to support policy and investment decision making. 
 --->
 ## Spatial Analogues
-(Spatial Analogues](https://github.com/ForesightInitiative/SpatialAnalogues)
+[Spatial Analogues](https://github.com/ForesightInitiative/SpatialAnalogues)
 # Links
 Links to other key foresight models and tools that are part of the Foresight and Metrics Initiative 
 
