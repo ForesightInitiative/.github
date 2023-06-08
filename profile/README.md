@@ -11,9 +11,10 @@
 ## OIMS
 [OIMS](https://github.com/ForesightInitiative/OIMS) is the flexible and extensible machine readable and human inteligible metadata schema we use for adding rich metadata to data and metrics, models and tools, and the related documentation. 
 
+<!---
 ## ADAM
 The purpose of [ADAM](https://github.com/ForesightAndMetrics/ADAM) is to bring together tools and models that use a variety of data from many sources to support policy and investment decision making. 
-
+--->
 ## Spatial Analogues
 (Spatial Analogues](https://github.com/ForesightInitiative/SpatialAnalogues)
 # Links
