@@ -1,6 +1,6 @@
 ![Foresight and Metrics](https://github.com/ForesightAndMetrics/ForesightAndMetrics/blob/main/CGIAR%20Initiative%20-%20Foresight%20and%20Metrics-03.jpg)
 ### short message from the Coordinator
-###  16, 2022
+###  December 16, 2022
 - 👋 Hi, I’m Gideon Kruseman (@ForesightAndMetrics). I lead Work Package 3 in the Foresight and Metrics for the Transformation of Food Land and Water Systems Initiative in CGIAR see: [initiative proposal](https://www.cgiar.org/initiative/24-foresight-and-metrics-to-accelerate-inclusive-and-sustainable-agrifood-system-transformation/). In that capacity I manage this repository.
 - 👀 I’m interested in the radical democratization of foresight analysis by ensuring FAIR foresight data and metrics and open source foresight tools
 - 🌱 As we near the end of 2023 new material is being finalized that will soon be here in the reposirory.
@@ -14,7 +14,8 @@
 ## ADAM
 The purpose of [ADAM](https://github.com/ForesightAndMetrics/ADAM) is to bring together tools and models that use a variety of data from many sources to support policy and investment decision making. 
 
-
+## Spatial Analogues
+(Spatial Analogues](https://github.com/ForesightInitiative/SpatialAnalogues)
 # Links
 Links to other key foresight models and tools that are part of the Foresight and Metrics Initiative 
 
