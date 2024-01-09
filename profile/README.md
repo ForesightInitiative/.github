@@ -1,5 +1,6 @@
-![Foresight and Metrics](https://github.com/ForesightAndMetrics/ForesightAndMetrics/blob/main/CGIAR%20Initiative%20-%20Foresight%20and%20Metrics-03.jpg)
+![Foresight and Metrics](https://github.com/ForesightInitiative/.github/assets/14908724/1ad1614a-8045-43cd-af55-f32b3a64c523)
 # short message from the Coordinator
+
 ### January, 2024
 - 👋 Hi, I’m Gideon Kruseman (@ForesightAndMetrics). I lead Work Package 3 in the Foresight Systems Initiative in CGIAR see: [initiative proposal](https://www.cgiar.org/initiative/24-foresight-and-metrics-to-accelerate-inclusive-and-sustainable-agrifood-system-transformation/). In that capacity I manage this repository.
 - 👀 I’m interested in the radical democratization of foresight analysis by ensuring FAIR foresight data and metrics and open source foresight tools
