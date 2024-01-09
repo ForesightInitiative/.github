@@ -15,6 +15,11 @@
 ## ADAM
 The purpose of [ADAM](https://github.com/ForesightAndMetrics/ADAM) is to bring together tools and models that use a variety of data from many sources to support policy and investment decision making. 
 --->
+
+## Clim2Agri
+[Clim2Agri](https://github.com/ForesightInitiative/clim2agri) is a tool for extracting and sub-setting geospatial climate data from gridded products for their use in crop modelling and agricultural research.
+
+
 ## Spatial Analogues
 [Spatial Analogues](https://github.com/ForesightInitiative/SpatialAnalogues)
 # Links
