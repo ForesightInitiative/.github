@@ -1,12 +1,12 @@
 ![Foresight and Metrics](https://github.com/ForesightInitiative/.github/assets/14908724/1ad1614a-8045-43cd-af55-f32b3a64c523)
 # short message from the Coordinator
 
-### January, 2024
-- 👋 Hi, I’m Gideon Kruseman (@ForesightAndMetrics). I lead Work Package 3 in the Foresight Systems Initiative in CGIAR see: [initiative proposal](https://www.cgiar.org/initiative/24-foresight-and-metrics-to-accelerate-inclusive-and-sustainable-agrifood-system-transformation/). In that capacity I manage this repository.
+### January, 2025
+- 👋 Hi, I’m Gideon Kruseman (@ForesightAndMetrics). From 2022 to the end of 2024, I led Work Package 3 in the Foresight Systems Initiative in CGIAR see: [initiative proposal](https://www.cgiar.org/initiative/24-foresight-and-metrics-to-accelerate-inclusive-and-sustainable-agrifood-system-transformation/). In that capacity I managed this repository. The Foresight Initiative has come to an end and is incorporated in the CGIAR Scuience Portfolio: Policy Innovations Science Program. 
 - 👀 I’m interested in the radical democratization of foresight analysis by ensuring FAIR foresight data and metrics and open source foresight tools
 - 🌱 At the end of 2023 new material was finalized and added to the reposirory.
-- 💞️ I’m looking to collaborate on cool foresight models and tools and related data and metrics the model outputs, publications and related documentation will be available through the [foresight web-portal](https://foresight.cgiar.org/). The webportal is undergoing a revamp and will change appreance over the next few months.
-- 📫 How to reach me: g.kruseman@cgiar.org
+- 💞️ I’m looking to collaborate on cool foresight models and tools and related data and metrics the model outputs, publications and related documentation will be available through the [foresight web-portal](https://foresight.cgiar.org/). The webportal went through a major revamp during the Foresight Initiative era.
+- 📫 How to reach me: info@gkruseman.nl
 
 # Contents of the repository
 ## OIMS
